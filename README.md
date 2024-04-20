@@ -1,13 +1,5 @@
 # Homework
 
-
-## Інсталяція залежностей
-
-```bash
-pip install -r requirements.txt
-```
-
-
 ## Завдання
 
 1. Допишіть в файлі `kfold.py` функції `kfold_cross_validation` та `evaluate_accuracy` для того щоб порахувати точність роботи KNN алгоритму.
@@ -38,3 +30,7 @@ Optimal value `k` = 4
 Overall, the model performs reasonably well, however, the drop in accuracy 
 from the cross-validation to the test data suggests that the model may be slightly 
 overfitting to the training data, as it doesn't generalize quite as well to unseen data.
+
+<img width="647" alt="Screenshot 2024-04-20 at 14 31 54" src="https://github.com/Ksushik/knn_hw/assets/14909496/17ca68c5-6817-45ad-95d8-4d6cba61307d">
+
+
